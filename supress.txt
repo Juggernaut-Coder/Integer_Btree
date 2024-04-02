@@ -1,0 +1,4 @@
+ignore_kernelbase {
+   type: Wildcard
+   function: kernelbase.dll!*
+}
